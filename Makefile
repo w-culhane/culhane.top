@@ -1,3 +1,5 @@
+.PHONY: clean
+
 all: dst
 
 dst: src
