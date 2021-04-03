@@ -1,4 +1,7 @@
-html { margin: 1em auto; max-width: 40em; }
+html {
+    margin: 1em auto;
+    max-width: 40em;
+}
 body, h1, h2, h3 { font: 16px/1.6em monospace; }
 h1, h2, h3 { font-weight: bold; }
 
@@ -15,7 +18,10 @@ a, a:link { color: #a00; }
 a:visited { color: #555; }
 
 @media (prefers-color-scheme: dark) {
+    html {
+	background-color: black;
+	color: white;
+    }
     a, a:link { color: #e00; }
     a:visited { color: #bbb; }
-    html { background-color: #000; color: #fff; }
 }
