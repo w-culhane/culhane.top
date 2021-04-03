@@ -11,4 +11,4 @@ tar: dst
 
 clean:
 	rm -rf dst
-	-rm site.tar.gz
+	rm -f site.tar.gz
