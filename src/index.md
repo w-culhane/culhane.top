@@ -51,3 +51,9 @@ seems to be continuously rearranging.*
 - [4] [HONR 201US](http://catalog.montana.edu/search/?P=HONR%20201US): Texts and Critics: Knowledge & Imagination 1
 - [4] [M 181Q](http://catalog.montana.edu/search/?P=M%20181Q): Honors Calculus 1
 - [3] [SPNS 102D](http://catalog.montana.edu/search/?P=SPNS%20102D): Elementary Spanish 2
+
+## Software choices
+
+fish, sway, Arch Linux, i3, Emacs, Neovim, tmux, Thunderbird, Python,
+GHDL + GTKWave, Quartus, pdfLaTeX (with latexmk), GNU Make, Alacritty,
+git, mpd, Cantata, mpv
