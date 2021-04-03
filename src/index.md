@@ -58,6 +58,6 @@ seems to be continuously rearranging.*
 
 ## Software choices
 
-fish, sway, Arch Linux, i3, GNU Emacs, Neovim, tmux, Thunderbird,
-Python, GHDL + GTKWave, Quartus, pdfLaTeX (with latexmk), GNU Make,
-Alacritty, git, mpd, Cantata, mpv
+Alacritty, Arch Linux, Cantata, Firefox, fish, GHDL + GTKWave, git,
+GNU Emacs, GNU Make, i3, mpd, mpv, Neovim, pdfLaTeX (with latexmk),
+Python, Quartus, sway, Thunderbird, tmux, zathura
