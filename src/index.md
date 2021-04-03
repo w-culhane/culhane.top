@@ -1,13 +1,16 @@
 # About
 
-Welcome to my website! My name is Will, and I am a student at Montana
-State University studying chemical engineering. I love all things involving
-UN\*X, hardware design, or chemistry.
+Welcome to my website! My name is Will (short for William Culhane),
+and I am a student at Montana State University studying chemical
+engineering, with a minor in computer engineering. I love all things
+involving UN\*X, hardware design, or chemistry. In my free time I
+enjoy biking around Bozeman/Austin, running, and programming.
 
-Recently I've mostly been preoccupied with my classes, which involves a lot of
-LaTeX, occasional python, and a fair bit of VHDL. Most of my projects
-are on [Sourcehut](https://git.sr.ht/~learax/); I also maintain
-mirrors on [GitHub](https://github.com/LEARAX).
+Recently I've mostly been preoccupied with my classes, which involves
+a lot of LaTeX, occasional python, and a fair bit of VHDL. Most of my
+projects are on [Sourcehut](https://git.sr.ht/~learax/), although not
+a lot of it is public at the moment; I also maintain mirrors on
+[GitHub](https://github.com/LEARAX).
 
 ## Courses
 
