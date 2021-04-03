@@ -4,7 +4,7 @@ all: dst
 
 dst: src
 	mkdir -p dst
-	ssg src dst 'William Culhane' 'culhane.top'
+	ssg src dst 'Will' 'culhane.top'
 
 clean:
 	rm -rf dst
