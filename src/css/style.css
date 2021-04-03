@@ -24,8 +24,8 @@ a:visited { color: #555; }
 
 @media (prefers-color-scheme: dark) {
     html {
-	background-color: black;
 	color: white;
+	background: black;
     }
     a, a:link { color: #e00; }
     a:visited { color: #bbb; }
