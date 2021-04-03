@@ -6,11 +6,11 @@ engineering, with a minor in computer engineering. I love all things
 involving UN\*X, hardware design, or chemistry. In my free time I
 enjoy biking around Bozeman/Austin, running, and programming.
 
-Recently I've mostly been preoccupied with my classes, which involves
-a lot of LaTeX, occasional python, and a fair bit of VHDL. Most of my
-projects are on [Sourcehut](https://git.sr.ht/~learax/), although not
-a lot of it is public at the moment; I also maintain mirrors on
-[GitHub](https://github.com/LEARAX).
+Recently I've mostly been preoccupied with my classes, which include a
+lot of LaTeX, occasional Python scripts, and a fair bit of VHDL. Most
+of my projects are on [Sourcehut](https://git.sr.ht/~learax/),
+although not a lot of it is public at the moment; I also maintain
+mirrors on [GitHub](https://github.com/LEARAX).
 
 ## Courses
 
@@ -54,6 +54,6 @@ seems to be continuously rearranging.*
 
 ## Software choices
 
-fish, sway, Arch Linux, i3, Emacs, Neovim, tmux, Thunderbird, Python,
-GHDL + GTKWave, Quartus, pdfLaTeX (with latexmk), GNU Make, Alacritty,
-git, mpd, Cantata, mpv
+fish, sway, Arch Linux, i3, GNU Emacs, Neovim, tmux, Thunderbird,
+Python, GHDL + GTKWave, Quartus, pdfLaTeX (with latexmk), GNU Make,
+Alacritty, git, mpd, Cantata, mpv
