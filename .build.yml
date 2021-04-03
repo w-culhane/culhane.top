@@ -6,8 +6,8 @@ oauth: pages.sr.ht/PAGES:RW
 environment:
   site: culhane.top
 tasks:
-  - package: |
+- package: |
     cd $site
     make tar
-  - upload: |
+- upload: |
     acurl -f https://pages.sr.ht/publish/$site -Fcontent=@site.tar.gz
