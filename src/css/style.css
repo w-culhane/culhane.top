@@ -17,6 +17,11 @@ h3::before { content: "*** "; }
 a, a:link { color: #a00; }
 a:visited { color: #555; }
 
+::selection {
+    color: white;
+    background: #a00;
+}
+
 @media (prefers-color-scheme: dark) {
     html {
 	background-color: black;
@@ -24,4 +29,8 @@ a:visited { color: #555; }
     }
     a, a:link { color: #e00; }
     a:visited { color: #bbb; }
+    ::selection {
+	color: black;
+	background: yellow;
+    }
 }
