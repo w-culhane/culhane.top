@@ -1,10 +1,14 @@
 # About
 
-Welcome to my website! My name is Will (short for William Culhane),
-and I am a student at Montana State University studying chemical
-engineering, with a minor in computer engineering. I love all things
-involving UN\*X, hardware design, or chemistry. In my free time I
-enjoy biking around Bozeman/Austin, running, and programming.
+Welcome to my website!
+
+My name is Will (short for William Culhane), and I am a student at
+Montana State University studying chemical and computer engineering.
+I love all things involving UN\*X, hardware design, or chemistry.
+In my free time I enjoy biking, running, and programming.
+
+My time is split between Bozeman, Billings, and Austin. I went to high
+school in Boise, and was born in Atlanta.
 
 Recently I've mostly been preoccupied with my classes, which include a
 lot of LaTeX, occasional Python scripts, and a fair bit of VHDL. Most
