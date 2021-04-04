@@ -5,10 +5,7 @@ html {
 body, h1, h2, h3 { font: 16px/1.6em monospace; }
 h1, h2, h3 { font-weight: bold; }
 
-h1 { margin-top: 3em; }
-h2 { margin-top: 2em; }
-h3 { margin-top: 1em; }
-p  { margin-top: 1em; }
+p, h1, h2, h3 { margin-top: 1em; }
 
 h1::before { content: "* "; }
 h2::before { content: "** "; }
@@ -20,6 +17,11 @@ a:visited { color: #555; }
 ::selection {
     color: white;
     background: #a00;
+}
+
+#logo {
+    white-space: pre;
+    margin-bottom: 0.5em;
 }
 
 @media (prefers-color-scheme: dark) {
