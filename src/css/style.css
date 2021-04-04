@@ -2,6 +2,22 @@ html {
     margin: 1em auto;
     max-width: 40em;
 }
+
+pre {
+    border: 2px dotted white;
+    background-color: #eee;
+}
+
+::selection {
+    color: white;
+    background: #a00;
+}
+
+#logo {
+    white-space: pre;
+    margin-bottom: 0.5em;
+}
+
 body, h1, h2, h3 { font: 16px/1.6em monospace; }
 h1, h2, h3 { font-weight: bold; }
 
@@ -14,25 +30,22 @@ h3::before { content: "*** "; }
 a, a:link { color: #a00; }
 a:visited { color: #555; }
 
-::selection {
-    color: white;
-    background: #a00;
-}
-
-#logo {
-    white-space: pre;
-    margin-bottom: 0.5em;
-}
-
 @media (prefers-color-scheme: dark) {
     html {
 	color: white;
 	background: black;
     }
-    a, a:link { color: #e00; }
-    a:visited { color: #bbb; }
+
+    pre {
+        border: 2px dotted black;
+	background-color: #222;
+    }
+
     ::selection {
 	color: black;
 	background: yellow;
     }
+
+    a, a:link { color: #e00; }
+    a:visited { color: #bbb; }
 }
