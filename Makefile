@@ -4,7 +4,7 @@ all: tar
 
 dst: src
 	mkdir -p dst
-	ssg src dst 'Will' 'culhane.top'
+	ssg src dst 'William Culhane' 'culhane.top'
 
 tar: dst
 	tar --exclude=.files -cvzC dst/ . > site.tar.gz
