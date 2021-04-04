@@ -1,3 +1,3 @@
 [submodule "src/doc"]
 	path = src/doc
-	url = git@git.sr.ht:~learax/culhane.top-doc
+	url = https://git.sr.ht/~learax/culhane.top-doc
