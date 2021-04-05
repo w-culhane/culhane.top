@@ -1,0 +1,9 @@
+#+TITLE: TODO
+#+AUTHOR: William Culhane
+#+DATE: <2021-04-04 Sun>
+
+* GENERAL
+** TODO Automate resume updates
+** TODO Support Gemini
+** TODO Integrate KaTeX?
+** TODO Support code highlighting?
