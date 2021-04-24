@@ -8,6 +8,6 @@ environment:
 tasks:
 - package: |
     cd $site
-    make tar
+    make site.tar.gz
 - upload: |
     acurl -f https://pages.sr.ht/publish/$site -Fcontent=@culhane.top/site.tar.gz

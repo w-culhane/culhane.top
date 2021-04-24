@@ -1,12 +1,12 @@
 .PHONY: clean
 
-all: tar
+all: site.tar.gz
 
 dst: src
 	mkdir -p dst
 	ssg src dst 'William Culhane' 'culhane.top'
 
-tar: dst
+site.tar.gz: dst
 	tar --exclude=.files -cvzC dst/ . > site.tar.gz
 
 clean:
