@@ -1,9 +1,12 @@
 #+TITLE: TODO
 #+AUTHOR: William Culhane
-#+DATE: <2021-04-04 Sun>
+#+DATE: <2021-04-24 Sat>
 
 * GENERAL
+** TODO Fix Makefile
+   - Does not detect updates to directory contents
 ** TODO Automate resume updates
+** TODO Fetch and build ssg & deps without reliance on AUR?
 ** TODO Support Gemini
 ** TODO Integrate KaTeX?
 ** TODO Support code highlighting?
