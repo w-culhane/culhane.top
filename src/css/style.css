@@ -5,7 +5,7 @@ html {
 
 pre {
     border: 2px dotted white;
-    background-color: #eee;
+    background-color: #ddd;
     overflow: auto;
     text-overflow: clip;
 }
