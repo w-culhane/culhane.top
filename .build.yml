@@ -1,7 +1,6 @@
 image: archlinux
 packages:
   - lowdown
-  - ssg
 oauth: pages.sr.ht/PAGES:RW
 environment:
   site: culhane.top

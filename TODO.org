@@ -6,7 +6,10 @@
 ** TODO Fix Makefile
    - Does not detect updates to directory contents
 ** TODO Automate resume updates
-** TODO Fetch and build ssg & deps without reliance on AUR?
+** DONE Fetch ssg without reliance on AUR
+   CLOSED: [2021-04-24 Sat 16:10]
+   - Might want to validate hash before running it
+   - Might want to fetch dependency (lowdown) as well
 ** TODO Support Gemini
 ** TODO Integrate KaTeX?
 ** TODO Support code highlighting?
