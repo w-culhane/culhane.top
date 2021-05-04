@@ -3,6 +3,13 @@
 ***NOTE*** *Links to course descriptions are liable to break, since MSU's website
 seems to be continuously rearranging.*
 
+## Summer 2021
+
+- [4] [CSCI 132](http://catalog.montana.edu/search/?P=CSCI%20132): Basic Data Structures and Algorithms
+- [4] [EELE 371](http://catalog.montana.edu/search/?P=EELE%20371): Microprocessor Hardware and Software Systems
+- [3] [CSCI 112](http://catalog.montana.edu/search/?P=CSCI%20112): Programming with C
+- [3] [EMAT 251](http://catalog.montana.edu/search/?P=EMAT%20251): Materials Structures and Properties
+
 ## Spring 2021
 
 - [4] [CHMY 333](http://catalog.montana.edu/search/?P=CHMY%20333): Honors Organic Chemistry 2
