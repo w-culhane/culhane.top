@@ -3,6 +3,15 @@
 ***NOTE*** *Links to course descriptions are liable to break, since MSU's website
 seems to be continuously rearranging.*
 
+## Fall 2021
+
+- [4] [ECNS 251IS](http://catalog.montana.edu/search/?P=ECNS%20251IS): Honors Economics
+- [4] [EELE 467](http://catalog.montana.edu/search/?P=EELE%20467): SoC FPGAs 1: Hardware-Software Codesign
+- [3] [ECHM 307](http://catalog.montana.edu/search/?P=ECHM%20307): Thermodynamics 1
+- [3] [ECHM 321](http://catalog.montana.edu/search/?P=ECHM%20321): Fluid Mechanics Operations
+- [3] [ECHM 322](http://catalog.montana.edu/search/?P=ECHM%20322): Heat Transfer Operations
+- [3] [EELE 101](http://catalog.montana.edu/search/?P=EELE%20101): Intro to Electrical Fundamentals
+
 ## Summer 2021
 
 - [4] [CSCI 132](http://catalog.montana.edu/search/?P=CSCI%20132): Basic Data Structures and Algorithms
