@@ -39,7 +39,7 @@ a:visited { color: #555; }
     }
 
     pre {
-        border: 2px dotted black;
+	border: 2px dotted black;
 	background-color: #222;
     }
 
