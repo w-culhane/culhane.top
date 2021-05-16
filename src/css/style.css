@@ -58,7 +58,7 @@ a:visited:hover {
 
     ::selection {
 	color: white;
-	background: #a00;
+	background: black;
     }
 
     a, a:link { color: #a00; }
