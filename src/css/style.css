@@ -1,18 +1,20 @@
 html {
     margin: 1em auto;
     max-width: 40em;
+    color: white;
+    background: black;
 }
 
 pre {
-    border: 2px dotted white;
-    background-color: #ddd;
+    border: 2px dotted black;
+    background-color: #222;
     overflow: auto;
     text-overflow: clip;
 }
 
 ::selection {
-    color: white;
-    background: #a00;
+    color: black;
+    background: yellow;
 }
 
 #logo {
@@ -29,46 +31,46 @@ h1::before { content: "* "; }
 h2::before { content: "** "; }
 h3::before { content: "*** "; }
 
-a, a:link { color: #a00; }
-a:visited { color: #555; }
+a, a:link { color: #e00; }
+a:visited { color: #bbb; }
 
 a:hover {
     background-color: #e00;
-    color: #fff;
+    color: #000;
     text-decoration: none;
 }
 
 a:visited:hover {
-    background-color: #555;
-    color: #fff;
+    background-color: #bbb;
+    color: #000;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
     html {
-	color: white;
-	background: black;
+	color: black;
+	background: white;
     }
 
     pre {
-	border: 2px dotted black;
-	background-color: #222;
+	border: 2px dotted white;
+	background-color: #ddd;
     }
 
     ::selection {
-	color: black;
-	background: yellow;
+	color: white;
+	background: #a00;
     }
 
-    a, a:link { color: #e00; }
-    a:visited { color: #bbb; }
+    a, a:link { color: #a00; }
+    a:visited { color: #555; }
 
     a:hover {
 	background-color: #e00;
-	color: #000;
+	color: #fff;
     }
 
     a:visited:hover {
-	background-color: #bbb;
-	color: #000;
+	background-color: #555;
+	color: #fff;
     }
 }
