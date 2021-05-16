@@ -1,5 +1,7 @@
 .PHONY: all clean
 
+SRCFILES := $(shell find src)
+
 all: site.tar.gz
 
 bin/ssg:
@@ -7,7 +9,7 @@ bin/ssg:
 	curl --proto '=https' --tlsv1.2 -SLf -o bin/ssg https://rgz.ee/bin/ssg6
 	chmod u+x bin/ssg
 
-dst: src bin/ssg
+dst: $(SRCFILES) bin/ssg
 	mkdir -p dst
 	./bin/ssg src dst 'William Culhane' 'culhane.top'
 
