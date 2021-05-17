@@ -1,9 +1,10 @@
 #+TITLE: TODO
 #+AUTHOR: William Culhane
-#+DATE: <2021-04-24 Sat>
+#+DATE: <2021-05-16 Sun>
 
 * GENERAL
-** TODO Fix Makefile
+** DONE Fix Makefile
+   CLOSED: [2021-05-16 Sun 20:15]
    - Does not detect updates to directory contents
 ** TODO Automate resume updates
 ** DONE Fetch ssg without reliance on AUR
