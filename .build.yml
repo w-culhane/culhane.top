@@ -10,4 +10,5 @@ tasks:
     cd $site
     make site.tar.gz
 - upload: |
-    acurl -f https://pages.sr.ht/publish/$site -Fcontent=@culhane.top/site.tar.gz
+    acurl -f https://pages.sr.ht/publish/$site \
+    -Fcontent=@$site/site.tar.gz
