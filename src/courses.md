@@ -28,7 +28,7 @@ seems to be continuously rearranging.*
 - [4] [ECHM 201](http://catalog.montana.edu/search/?P=%22ECHM%20201%22): Principles of Biological and Chemical Engineering
 - [4] [EELE 367](http://catalog.montana.edu/search/?P=%22EELE%20367%22): Logic Design
 - [4] [M 274](http://catalog.montana.edu/search/?P=%22M%20274%22): Intro to Differential Equations
-- [3] [EGEN 102](http://catalog.montana.edu/search/?P=%22EGEN%20102%22): Intro to Engineer Computer Applications
+- [3] [EGEN 102](http://catalog.montana.edu/search/?P=%22EGEN%20102%22): Intro to Engineering Computations and Applications
 
 ## Winter 2020-21
 
