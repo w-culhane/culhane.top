@@ -1,6 +1,6 @@
 #+TITLE: TODO
 #+AUTHOR: William Culhane
-#+DATE: <2021-05-16 Sun>
+#+DATE: <2021-06-04 Fri>
 
 * GENERAL
 ** DONE Fix Makefile
@@ -11,6 +11,7 @@
    CLOSED: [2021-04-24 Sat 16:10]
    - Might want to validate hash before running it
    - Might want to fetch dependency (lowdown) as well
-** TODO Support Gemini
+** KILL Support Gemini
+   CLOSED: [2021-06-04 Fri 20:43]
 ** TODO Integrate KaTeX?
 ** TODO Support code highlighting?
