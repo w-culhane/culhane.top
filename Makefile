@@ -6,9 +6,12 @@ all: site.tar.gz
 
 bin/ssg:
 	mkdir -p bin
-	curl --proto '=https' --tlsv1.2 \
+	curl --proto '=https' --tlsv1.2 --max-time 60 \
 	--show-error --location --fail --output bin/ssg \
-	https://rgz.ee/bin/ssg6
+	https://rgz.ee/bin/ssg6 \
+	|| curl --proto '=https' --tlsv1.2 --max-time 60 \
+	--show-error --location --fail --output bin/ssg \
+	https://raw.githubusercontent.com/romanzolotarev/rgz/master/bin/ssg6
 	chmod u+x bin/ssg
 
 dst: $(SRCFILES) bin/ssg
