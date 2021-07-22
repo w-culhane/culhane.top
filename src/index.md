@@ -14,11 +14,11 @@ free time I enjoy biking, running, and programming.
 I have lived in/spent an extended period of time in the following
 places:
 
-- [Atlanta, GA](https://en.wikipedia.org/wiki/Atlanta)
-- [Austin, TX](https://en.wikipedia.org/wiki/Austin,_Texas)
-- [Billings, MT](https://en.wikipedia.org/wiki/Billings,_Montana)
-- [Boise, ID](https://en.wikipedia.org/wiki/Boise,_Idaho)
-- [Bozeman, MT](https://en.wikipedia.org/wiki/Bozeman,_Montana)
+- Atlanta, GA
+- Austin, TX
+- Billings, MT
+- Boise, ID
+- Bozeman, MT
 
 ## Current activities/projects
 
