@@ -9,7 +9,7 @@ My name is Will. I am a student at
 studying chemical and computer engineering. Most of my projects are on
 [Sourcehut](https://git.sr.ht/~learax/), although not a lot of them
 are public at the moment; I also maintain mirrors on
-[GitHub](https://github.com/LEARAX).
+[GitHub](https://github.com/w-culhane).
 
 I have lived in/spent an extended period of time in the following
 places:
