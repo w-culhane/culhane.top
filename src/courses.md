@@ -7,9 +7,6 @@ group.
 Also available in flowchart form:
 [SVG](/doc/courses_current.svg) [PDF](/doc/courses_current.pdf) [SRC](https://git.sr.ht/%7Elearax/courses-flowchart)
 
-***NOTE*** *Links to course descriptions are liable to break, since MSU's website
-seems to be continuously rearranging.*
-
 ## Spring 2022
 
 - [1] [ECHM 490R](http://catalog.montana.edu/search/?P=%22ECHM%20490R%22): Undergraduate Research
