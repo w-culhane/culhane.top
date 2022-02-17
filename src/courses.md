@@ -12,12 +12,13 @@ seems to be continuously rearranging.*
 
 ## Spring 2022
 
+- [1] [ECHM 490R](http://catalog.montana.edu/search/?P=%22ECHM%20490R%22): Undergraduate Research
+- [3] [ECHM 323](http://catalog.montana.edu/search/?P=%22ECHM%20323%22): Mass Transfer Operations
 - [4] [EELE 468](http://catalog.montana.edu/search/?P=%22EELE%20468%22): SoC FPGAs 2: Application-Specific Computing
 - [3] [EELE 408](http://catalog.montana.edu/search/?P=%22EELE%20408%22): Photovoltaic Systems
 - [4] [EELE 201](http://catalog.montana.edu/search/?P=%22EELE%20201%22): Circuits 1
 - [3] [EBIO 438](http://catalog.montana.edu/search/?P=%22EBIO%20438%22): Bioprocess Engineering
 - [3] [CHMY 373](http://catalog.montana.edu/search/?P=%22CHMY%20373%22): Physical Chemistry 2: Kinetics and Thermodynamics
-- [3] [ECHM 323](http://catalog.montana.edu/search/?P=%22ECHM%20323%22): Mass Transfer Operations
 
 ## Fall 2021
 
