@@ -1,8 +1,7 @@
 # Courses
 
-Courses below are grouped by the first half of their course numbers,
-and reverse sorted by the second half of the highest course number per
-group.
+Courses below are grouped by the first half of their course numbers
+and reverse sorted by the second half of their course numbers.
 
 Also available in flowchart form:
 [SVG](/doc/courses_current.svg) [PDF](/doc/courses_current.pdf) [SRC](https://git.sr.ht/%7Elearax/courses-flowchart)
@@ -20,11 +19,11 @@ Also available in flowchart form:
 ## Fall 2021
 
 - [4] [EELE 467](http://catalog.montana.edu/search/?P=%22EELE%20467%22): SoC FPGAs 1: Hardware-Software Codesign
+- [3] [EELE 101](http://catalog.montana.edu/search/?P=%22EELE%20101%22): Intro to Electrical Fundamentals
 - [3] [ECHM 322](http://catalog.montana.edu/search/?P=%22ECHM%20322%22): Heat Transfer Operations
 - [3] [ECHM 321](http://catalog.montana.edu/search/?P=%22ECHM%20321%22): Fluid Mechanics Operations
 - [3] [ECHM 307](http://catalog.montana.edu/search/?P=%22ECHM%20307%22): Thermodynamics 1
 - [4] [ECNS 251IS](http://catalog.montana.edu/search/?P=%22ECNS%20251IS%22): Honors Economics
-- [3] [EELE 101](http://catalog.montana.edu/search/?P=%22EELE%20101%22): Intro to Electrical Fundamentals
 
 ## Summer 2021
 
