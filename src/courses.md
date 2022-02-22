@@ -1,7 +1,7 @@
 # Courses
 
 Courses below are grouped by the first half of their course numbers
-and reverse sorted by the second half of their course numbers.
+and reverse sorted by the second half.
 
 Also available in flowchart form:
 [SVG](/doc/courses_current.svg) [PDF](/doc/courses_current.pdf) [SRC](https://git.sr.ht/%7Elearax/courses-flowchart)
