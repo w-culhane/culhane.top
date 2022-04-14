@@ -6,6 +6,21 @@ and reverse sorted by the second half.
 Also available in flowchart form:
 [SVG](/doc/courses_current.svg) [PDF](/doc/courses_current.pdf) [SRC](https://git.sr.ht/%7Elearax/courses-flowchart)
 
+## Fall 2022
+
+- [3] [CSCI 460](http://catalog.montana.edu/search/?P=%22CSCI%20460%22): Operating Systems
+- [3] [ECHM 451](http://catalog.montana.edu/search/?P=%22ECHM%20451%22): Process Dynamics and Control
+- [3] [ECHM 442](http://catalog.montana.edu/search/?P=%22ECHM%20442%22): Chemical Engineering Lab 1
+- [3] [ECHM 411R](http://catalog.montana.edu/search/?P=%22ECHM%20411R%22): Chemical Engineering Design 1
+- [3] [ECHM 328](http://catalog.montana.edu/search/?P=%22ECHM%20328%22): Reactor Design
+- [4] [EELE 203](http://catalog.montana.edu/search/?P=%22EELE%20203%22): Circuits 2
+
+## Summer 2022
+
+- [4] [CSCI 232](http://catalog.montana.edu/search/?P=%22CSCI%20232%22): Advanced Data Structures and Algorithms
+- [2] [EGEN 350](http://catalog.montana.edu/search/?P=%22EGEN%20350%22): Applied Engineering Data Analysis
+- [3] [EGEN 310R](http://catalog.montana.edu/search/?P=%22EGEN%20310R%22): Multidisciplinary Engineering Design
+
 ## Spring 2022
 
 - [1] [ECHM 490R](http://catalog.montana.edu/search/?P=%22ECHM%20490R%22): Undergraduate Research
