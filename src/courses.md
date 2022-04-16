@@ -17,9 +17,9 @@ Also available in flowchart form:
 
 ## Summer 2022
 
-- [4] [CSCI 232](http://catalog.montana.edu/search/?P=%22CSCI%20232%22): Advanced Data Structures and Algorithms
 - [2] [EGEN 350](http://catalog.montana.edu/search/?P=%22EGEN%20350%22): Applied Engineering Data Analysis
 - [3] [EGEN 310R](http://catalog.montana.edu/search/?P=%22EGEN%20310R%22): Multidisciplinary Engineering Design
+- [4] [CSCI 232](http://catalog.montana.edu/search/?P=%22CSCI%20232%22): Advanced Data Structures and Algorithms
 
 ## Spring 2022
 
