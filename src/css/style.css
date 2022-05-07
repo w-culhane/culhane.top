@@ -45,6 +45,10 @@ a:visited:hover {
     color: #000;
 }
 
+code {
+    background-color: #222;
+}
+
 @media (prefers-color-scheme: light) {
     html {
 	color: black;
@@ -72,5 +76,9 @@ a:visited:hover {
     a:visited:hover {
 	background-color: #555;
 	color: #fff;
+    }
+
+    code {
+	background-color: #ddd;
     }
 }
