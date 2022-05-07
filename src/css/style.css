@@ -49,6 +49,10 @@ code {
     background-color: #222;
 }
 
+ul {
+    list-style-type: square;
+}
+
 @media (prefers-color-scheme: light) {
     html {
 	color: black;
