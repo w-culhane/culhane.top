@@ -16,7 +16,7 @@ bin/ssg:
 
 dst: $(SRCFILES) bin/ssg
 	mkdir -p dst
-	./bin/ssg src dst 'William Culhane' 'culhane.top'
+	./bin/ssg src dst 'William Culhane' 'wculhane.com'
 
 site.tar.gz: dst
 	tar --exclude=.files -cvzC dst/ . > site.tar.gz

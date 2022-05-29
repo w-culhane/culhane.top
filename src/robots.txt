@@ -1,2 +1,2 @@
 user-agent: *
-sitemap: https://culhane.top/sitemap.xml
+sitemap: https://wculhane.com/sitemap.xml
