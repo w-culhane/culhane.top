@@ -14,10 +14,15 @@ Also available in flowchart form:
 - [3] [ECHM 322](http://catalog.montana.edu/search/?P=%22ECHM%20322%22): Heat Transfer Operations
 - [3] [ECHM 323](http://catalog.montana.edu/search/?P=%22ECHM%20323%22): Mass Transfer Operations
 - [3] [ECHM 328](http://catalog.montana.edu/search/?P=%22ECHM%20328%22): Reactor Design
+- [2] [ECHM 407](http://catalog.montana.edu/search/?P=%22ECHM%20407%22): Thermodynamics 2
 - [3] [ECHM 411R](http://catalog.montana.edu/search/?P=%22ECHM%20411R%22): Chemical Engineering Design 1
+- [3] [ECHM 412R](http://catalog.montana.edu/search/?P=%22ECHM%20412R%22): Chemical Engineering Design 2
+- [3] [ECHM 424](http://catalog.montana.edu/search/?P=%22ECHM%20424%22): Transport Analysis
 - [3] [ECHM 442](http://catalog.montana.edu/search/?P=%22ECHM%20442%22): Chemical Engineering Lab 1
+- [3] [ECHM 443](http://catalog.montana.edu/search/?P=%22ECHM%20443%22): Chemical Engineering Lab 2
 - [3] [ECHM 451](http://catalog.montana.edu/search/?P=%22ECHM%20451%22): Process Dynamics and Control
 - [1] [ECHM 490R](http://catalog.montana.edu/search/?P=%22ECHM%20490R%22): Undergraduate Research
+- [0] [EGEN 488](http://catalog.montana.edu/search/?P=%22EGEN%20488%22): FE Exam
 - [3] [EMAT 251](http://catalog.montana.edu/search/?P=%22EMAT%20251%22): Materials Structures and Properties
 
 ## Chemistry
@@ -43,6 +48,8 @@ Also available in flowchart form:
 - [4] [EELE 201](http://catalog.montana.edu/search/?P=%22EELE%20201%22): Circuits 1
 - [4] [EELE 203](http://catalog.montana.edu/search/?P=%22EELE%20203%22): Circuits 2
 - [4] [EELE 261](http://catalog.montana.edu/search/?P=%22EELE%20261%22): Intro to Logic Circuits
+- [4] [EELE 308](http://catalog.montana.edu/search/?P=%22EELE%20308%22): Signals and Systems Analysis
+- [4] [EELE 317](http://catalog.montana.edu/search/?P=%22EELE%20317%22): Electronics
 - [4] [EELE 367](http://catalog.montana.edu/search/?P=%22EELE%20367%22): Logic Design
 - [4] [EELE 371](http://catalog.montana.edu/search/?P=%22EELE%20371%22): Microprocessor Hardware and Software Systems
 - [3] [EELE 408](http://catalog.montana.edu/search/?P=%22EELE%20408%22): Photovoltaic Systems
