@@ -14,7 +14,6 @@ Also available in flowchart form:
 - [3] [ECHM 322](http://catalog.montana.edu/search/?P=%22ECHM%20322%22): Heat Transfer Operations
 - [3] [ECHM 323](http://catalog.montana.edu/search/?P=%22ECHM%20323%22): Mass Transfer Operations
 - [3] [ECHM 328](http://catalog.montana.edu/search/?P=%22ECHM%20328%22): Reactor Design
-- [2] [ECHM 407](http://catalog.montana.edu/search/?P=%22ECHM%20407%22): Thermodynamics 2
 - [3] [ECHM 411R](http://catalog.montana.edu/search/?P=%22ECHM%20411R%22): Chemical Engineering Design 1
 - [3] [ECHM 412R](http://catalog.montana.edu/search/?P=%22ECHM%20412R%22): Chemical Engineering Design 2
 - [3] [ECHM 424](http://catalog.montana.edu/search/?P=%22ECHM%20424%22): Transport Analysis
@@ -50,6 +49,7 @@ Also available in flowchart form:
 - [4] [EELE 261](http://catalog.montana.edu/search/?P=%22EELE%20261%22): Intro to Logic Circuits
 - [4] [EELE 308](http://catalog.montana.edu/search/?P=%22EELE%20308%22): Signals and Systems Analysis
 - [4] [EELE 317](http://catalog.montana.edu/search/?P=%22EELE%20317%22): Electronics
+- [3] [EELE 321](http://catalog.montana.edu/search/?P=%22EELE%20321%22): Intro to Feedback Controls
 - [4] [EELE 367](http://catalog.montana.edu/search/?P=%22EELE%20367%22): Logic Design
 - [4] [EELE 371](http://catalog.montana.edu/search/?P=%22EELE%20371%22): Microprocessor Hardware and Software Systems
 - [3] [EELE 408](http://catalog.montana.edu/search/?P=%22EELE%20408%22): Photovoltaic Systems
