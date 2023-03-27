@@ -39,7 +39,9 @@ Also available in flowchart form:
 - [4] [CSCI 127](http://catalog.montana.edu/search/?P=%22CSCI%20127%22): Joy and Beauty of Data
 - [4] [CSCI 132](http://catalog.montana.edu/search/?P=%22CSCI%20132%22): Basic Data Structures and Algorithms
 - [4] [CSCI 232](http://catalog.montana.edu/search/?P=%22CSCI%20232%22): Advanced Data Structures and Algorithms
+- [3] [CSCI 246](http://catalog.montana.edu/search/?P=%22CSCI%20246%22): Discrete Structures
 - [3] [CSCI 460](http://catalog.montana.edu/search/?P=%22CSCI%20460%22): Operating Systems
+- [3] [CSCI 466](http://catalog.montana.edu/search/?P=%22CSCI%20466%22): Networks
 
 ## Electrical & computer engineering
 
@@ -50,11 +52,13 @@ Also available in flowchart form:
 - [4] [EELE 308](http://catalog.montana.edu/search/?P=%22EELE%20308%22): Signals and Systems Analysis
 - [4] [EELE 317](http://catalog.montana.edu/search/?P=%22EELE%20317%22): Electronics
 - [3] [EELE 321](http://catalog.montana.edu/search/?P=%22EELE%20321%22): Intro to Feedback Controls
+- [3] [EELE 334](http://catalog.montana.edu/search/?P=%22EELE%20334%22): Electromagnetic Theory 1
 - [4] [EELE 367](http://catalog.montana.edu/search/?P=%22EELE%20367%22): Logic Design
 - [4] [EELE 371](http://catalog.montana.edu/search/?P=%22EELE%20371%22): Microprocessor Hardware and Software Systems
 - [3] [EELE 408](http://catalog.montana.edu/search/?P=%22EELE%20408%22): Photovoltaic Systems
 - [4] [EELE 467](http://catalog.montana.edu/search/?P=%22EELE%20467%22): SoC FPGAs 1: Hardware-Software Codesign
 - [4] [EELE 468](http://catalog.montana.edu/search/?P=%22EELE%20468%22): SoC FPGAs 2: Application-Specific Computing
+- [2] [EELE 488R](http://catalog.montana.edu/search/?P=%22EELE%20488R%22): Electrical Engineering Design 1
 
 ## General engineering
 
