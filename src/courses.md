@@ -56,7 +56,6 @@ Also available in flowchart form:
 - [4] [EELE 367](http://catalog.montana.edu/search/?P=%22EELE%20367%22): Logic Design
 - [4] [EELE 371](http://catalog.montana.edu/search/?P=%22EELE%20371%22): Microprocessor Hardware and Software Systems
 - [3] [EELE 408](http://catalog.montana.edu/search/?P=%22EELE%20408%22): Photovoltaic Systems
-- [3] [EELE 422](http://catalog.montana.edu/search/?P=%22EELE%20422%22): Intro to Modern Control
 - [4] [EELE 467](http://catalog.montana.edu/search/?P=%22EELE%20467%22): SoC FPGAs 1: Hardware-Software Codesign
 - [4] [EELE 468](http://catalog.montana.edu/search/?P=%22EELE%20468%22): SoC FPGAs 2: Application-Specific Computing
 - [2] [EELE 488R](http://catalog.montana.edu/search/?P=%22EELE%20488R%22): Electrical Engineering Design 1
