@@ -14,6 +14,7 @@ Also available in flowchart form:
 - [3] [ECHM 322](http://catalog.montana.edu/search/?P=%22ECHM%20322%22): Heat Transfer Operations
 - [3] [ECHM 323](http://catalog.montana.edu/search/?P=%22ECHM%20323%22): Mass Transfer Operations
 - [3] [ECHM 328](http://catalog.montana.edu/search/?P=%22ECHM%20328%22): Reactor Design
+- [3] [ECHM 407](http://catalog.montana.edu/search/?P=%22ECHM%20407%22): Thermodynamics 2
 - [3] [ECHM 411R](http://catalog.montana.edu/search/?P=%22ECHM%20411R%22): Chemical Engineering Design 1
 - [3] [ECHM 412R](http://catalog.montana.edu/search/?P=%22ECHM%20412R%22): Chemical Engineering Design 2
 - [3] [ECHM 424](http://catalog.montana.edu/search/?P=%22ECHM%20424%22): Transport Analysis
@@ -56,9 +57,13 @@ Also available in flowchart form:
 - [4] [EELE 367](http://catalog.montana.edu/search/?P=%22EELE%20367%22): Logic Design
 - [4] [EELE 371](http://catalog.montana.edu/search/?P=%22EELE%20371%22): Microprocessor Hardware and Software Systems
 - [3] [EELE 408](http://catalog.montana.edu/search/?P=%22EELE%20408%22): Photovoltaic Systems
+- [4] [EELE 465](http://catalog.montana.edu/search/?P=%22EELE%20465%22): Microcontroller Applications
 - [4] [EELE 467](http://catalog.montana.edu/search/?P=%22EELE%20467%22): SoC FPGAs 1: Hardware-Software Codesign
 - [4] [EELE 468](http://catalog.montana.edu/search/?P=%22EELE%20468%22): SoC FPGAs 2: Application-Specific Computing
+- [3] [EELE 484](http://catalog.montana.edu/search/?P=%22EELE%20484%22): Laser Engineering
+- [1] [EELE 487](http://catalog.montana.edu/search/?P=%22EELE%20487%22): Professional Ethics and Engineering Practices
 - [2] [EELE 488R](http://catalog.montana.edu/search/?P=%22EELE%20488R%22): Electrical Engineering Design 1
+- [3] [EELE 489R](http://catalog.montana.edu/search/?P=%22EELE%20489R%22): Electrical Engineering Design 2
 
 ## General engineering
 
@@ -79,4 +84,5 @@ Also available in flowchart form:
 - [4] [HONR 201US](http://catalog.montana.edu/search/?P=%22HONR%20201US%22): Texts and Critics: Knowledge & Imagination 1
 - [4] [HONR 202IH](http://catalog.montana.edu/search/?P=%22HONR%20202IH%22): Texts and Critics: Knowledge & Imagination 2
 - [4] [HONR 400](http://catalog.montana.edu/search/?P=%22HONR%20400%22): Death Becomes Us: The Mystery of Mortality and the Need for Meaning
+- [4] [HONR 406](http://catalog.montana.edu/search/?P=%22HONR%20406%22): Critical Perspectives in Leadership
 - [3] [SPNS 102D](http://catalog.montana.edu/search/?P=%22SPNS%20102D%22): Elementary Spanish 2
