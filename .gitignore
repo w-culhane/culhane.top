@@ -1,3 +1,2 @@
-bin/
-dst/
+/dst
 site.tar.gz
