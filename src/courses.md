@@ -3,7 +3,7 @@
 Format: `[CREDITS] COURSE CODE: COURSE NAME`
 
 Also available in flowchart form:
-[SVG](/doc/courses_current.svg) [PDF](/doc/courses_current.pdf) [SRC](https://git.sr.ht/%7Elearax/courses-flowchart)
+[SVG](/doc/courses_undergrad.svg) [PDF](/doc/courses_undergrad.pdf) [SRC](https://git.sr.ht/%7Elearax/courses-flowchart)
 
 ## Chemical & biological engineering
 
